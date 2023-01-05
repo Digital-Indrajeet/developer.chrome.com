@@ -65,7 +65,7 @@ impact on user-perceived performance.
     </thead>
     <tbody>
       <tr>
-        <td><a href="/first-contentful-paint/">First Contentful Paint</a></td>
+        <td><a href="/docs/lighthouse/performance/lighthouse-largest-contentful-paint/">First Contentful Paint</a></td>
         <td>10%</td>
       </tr>
       <tr>
